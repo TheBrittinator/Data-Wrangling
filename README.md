@@ -8,7 +8,7 @@ Cleaning Data is a usefule skill that every Data Analyst should have. This is th
  - Archive.zip
  - Data-Wrangling-Project.ipynp
  
-## Data Warangling Project
+## Data Wrangling Project
 - Documentation for reading zipfiles
     - [Work with ZIP archive](https://docs.python.org/3/library/zipfile.html)
  
